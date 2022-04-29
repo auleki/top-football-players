@@ -20,12 +20,11 @@ img {
 }
 
 li {
-    background: linear-gradient(to right, rgb(3, 240, 110), rgb(118, 243, 46));
     min-width: 200px;
     max-width: 400px;
     border-radius: 20px;
     font-size: 1rem;
-    color: rgb(40, 40, 41);
+    color: rgb(255, 255, 255);
     padding: 1rem;
 
 }
@@ -36,7 +35,7 @@ p {
 
 .tag {
     font-weight: bold;
-    color: rgb(59, 59, 59);
+    color: rgb(221, 221, 221);
 }
 
 .team {
