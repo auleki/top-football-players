@@ -1,6 +1,6 @@
 body {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-    background-image: url("https://i2-prod.football.london/incoming/article17909924.ece/ALTERNATES/s1200c/0_GettyImages-1210995196.jpg");
+    background-color: aquamarine;
 }
 
 ul {
@@ -20,6 +20,7 @@ img {
 }
 
 li {
+    background: linear-gradient(to right, rgb(44, 44, 44), rgb(4, 4, 4));
     min-width: 200px;
     max-width: 400px;
     border-radius: 20px;
